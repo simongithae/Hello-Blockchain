@@ -1,0 +1,6 @@
+.env
+.env.example
+node_modules
+Hacks.txt
+providerFunctions.txt
+ethersFunctions.txt
